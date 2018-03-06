@@ -1,4 +1,5 @@
 # Disable the warnings of using dynamic method call in common library.
+-dontwarn
 -dontnote com.android.gallery3d.common.*
 
 #Avoid the library class dependency error
